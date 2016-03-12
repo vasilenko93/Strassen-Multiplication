@@ -8,7 +8,7 @@ A simple implementation of the Strassen using Java.
  
 ### Todos
 
- - Implement remove
+ - Input matrix data from file
  - Improve performance
 
 How to compile:
